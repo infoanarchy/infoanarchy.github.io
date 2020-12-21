@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Infoanarchy</title>
+    <link>https://infoanarchy.github.io/docs/</link>
+    <description>Recent content in Docs on Infoanarchy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-RU</language>
+    
+	<atom:link href="https://infoanarchy.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Network Attached Storage</title>
+      <link>https://infoanarchy.github.io/docs/network-attached-storage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://infoanarchy.github.io/docs/network-attached-storage/</guid>
+      <description>Network Attached Storage NAS - файлопомойка, на которой аноним может хранить терабайты полезной нагрузки. Можно сделать из говна и палок, и плакать когда (не если, а когда) рейд бесповоротно сдохнет, или можно попробовать сделать его отказоустойчивым, насколько это возможно. Для этого тебе навряд ли хватит этой вики, но как отправная точка она пойдёт.
+100% гарантий сохранности данных он не обеспечит в любом случае, поэтому важное всегда нужно бэкапить на отдельный носитель, например, внешний хард, флешку, оптический диск; запаковать в зашифрованный архив с большим ключом или LUKS/VeraCrypt криптоконтейнер, и залить на бесплатное облако.</description>
+    </item>
+    
+    <item>
+      <title>Аппаратная часть</title>
+      <link>https://infoanarchy.github.io/docs/hardware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://infoanarchy.github.io/docs/hardware/</guid>
+      <description>На что сохранять контент? HDD - Самый оптимальный вариант. Если не насиловать его включениями-выключениями по 20 раз в день, не ронять на пол и хранить в нормальных условиях, то жить он будет долго. А ещё, если вдруг что-нибудь случится, есть специальные конторы, которые могут вытащить с убитого харда информацию за $ (для майора Доигралеса бесплатно). Самыми надёжными жесткими дисками по среднему сроку службы и количеству брака являются диски Seagate Constellation и Western Digital Green.</description>
+    </item>
+    
+    <item>
+      <title>Интересные файлы собранные другими людьми</title>
+      <link>https://infoanarchy.github.io/docs/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://infoanarchy.github.io/docs/links/</guid>
+      <description>ССЫЛОЧКИ НА ФОТО ТОВ.МАЙОРА ДОЕБАЛЕСА БЕЗ ПОГОН И ОРДЕРА!!! (возможно сейчас уже тов.подполковника)
+  https://yadi.sk/d/nfSpf3rC3UA9g8 - большой пак больше 50 гб
+  https://drive.google.com/file/d/19hKtkk_tp1Zm_BrpqBUkp6agOswf6__k/view?aba2c4aa26 Книги издательства МИФ - 2018 [293 книг]
+  https://en.wikipedia.org/wiki/Wikipedia:Database_download Дамп википедии с инструкцией.
+  https://wiki.kiwix.org/wiki/Content_in_all_languages - Дампы вики и не только.
+  https://pikabu.ru/story/arkhiv_statey_lurkomore__lurkmore_2018_5922550 Дамп лурочки от мая 2018 года в формате .chm (Статьи типа Конопля/твоя мать - заблочены - другими словами дамп качал жопорук без прокси, если хочешь почитать о Конопля без заглушки перекачай через прокси например Польши (можешь даже скинуть нам новый дамп))</description>
+    </item>
+    
+    <item>
+      <title>История</title>
+      <link>https://infoanarchy.github.io/docs/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://infoanarchy.github.io/docs/history/</guid>
+      <description>12 февраля Госдума РФ в первом чтении приняла законопроект об изоляции российского сегмента интернета. Это значит, что даже пердоли из /s/ со своими напердоленными обходными прокси-агрегатами соснут с проглотом.
+  21 февраля Солнцеликий заявил, что угроза отключения России от глобального интернета существует, и к ней нужно подготовиться. А ещё заявил, что сама себя Россия отключать от интернета не-бу-дет [spoiler]твёрдо и чётко.[/spoiler]
+  22 февраля Медведев подписал постановление о создании Центра мониторинга и управления сетью связи общего пользования.</description>
+    </item>
+    
+    <item>
+      <title>Обход блокировок</title>
+      <link>https://infoanarchy.github.io/docs/ways_to_bypass_locks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://infoanarchy.github.io/docs/ways_to_bypass_locks/</guid>
+      <description>TOX https://tox.chat/
+http://www.spy-soft.net/ustanovka-nastrojka-rabota-s-anonimnym-messendzherom-tox/
+WIRE. Клиент: https://github.com/wireapp
+Сервер: https://github.com/wireapp/wire-server
+Bitmessage https://bitmessage.org/wiki/Main_Page
+https://book.cyberyozh.com/ru/bitmessage-samyij-anonimnyij-messendzher/
+Tor https://www.torproject.org/
+https://ru.wikipedia.org/wiki/Tor
+I2P https://habr.com/en/post/97827/
+https://geti2p.net/ru/
+https://github.com/PurpleI2P/i2pd
+Freenet http://zenway.ru/page/freenet
+https://freenetproject.org/
+Retroshare https://adorabilis.wordpress.com/rs-quick-entering/
+https://habr.com/en/post/279031/
+http://retroshare.cc/
+GoodbyeDPI https://bitbucket.org/ValdikSS/goodbyedpi
+Сайты с теорией https://privacytools.ru/
+https://book.cyberyozh.com/ru/?fl=ru
+http://www.ifap.ru/library/book534.pdf - Настольная книга кибердиссидента
+Mesh сети https://github.com/russian-meshnet/meshnet-chat-agenda - оче годное русское сообщество.
+https://www.reddit.com/r/ru_meshnet
+Дистрибутивы линукс для обхода блокировок и анонимизации Linux Kodachi Имеет встроеный впн, который оплачивает создатель, если заподозрит тебя в чём-то нехорошем - отрубит. Так что анонимность так себе, но в остальном оче хорош.</description>
+    </item>
+    
+    <item>
+      <title>Полезные ссылки</title>
+      <link>https://infoanarchy.github.io/docs/varez_link/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://infoanarchy.github.io/docs/varez_link/</guid>
+      <description>Варез линкс Софт на пекарню:  alternativeto.net - Хороший, годный ресурс для поиска софта и аналогов к нему. irdevelopers.com rsload.net onhax.me portableapps.com startcrack.com teamos-hkrg.com karanpc.com - Варез, кряки, репаки, кейгены.  Софт на ведроид:  4pda.ru - Без иронии. После наступления чебурнета эта файлопомойка начнёт массово тереть варез, лишь бы её не заблочили. Качай пока не поздно. apk4fun.com apkmirror.com apkpure.com trashbox.ru mob.org  Игры:  Skidrow, CPY - Годные репакеры, в отличие от наших действительно ничего не вырезают и не перекодируют.</description>
+    </item>
+    
+    <item>
+      <title>Программная часть</title>
+      <link>https://infoanarchy.github.io/docs/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://infoanarchy.github.io/docs/software/</guid>
+      <description>А чем качать?   Скачивать c YouTube лучше всего с Ummy Downloader, для пердоликов youtube-dl.
+  Для скачивания рандомных сайтов подойдёт Teleport Pro (Есть ещё версия ULTRA, которая добавляет возможность запихнуть в .txt файл до 4094 ссылки и скачать их), прога крайне проста, но нужно аккуратно вбивать, чтобы не скачать пол интернета. Из аналогов есть HTTrack Website Copier, WebCopy, Darcy Ripper, MetaProducts Offline Explorer. Вот Teleport Pro крякнутая и ру$$сифицированная, пароль к архиву kilo.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en" dir=>
+
+<head>
+  <meta name="generator" content="Hugo 0.68.3" />
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="TOX https://tox.chat/
+http://www.spy-soft.net/ustanovka-nastrojka-rabota-s-anonimnym-messendzherom-tox/
+WIRE. Клиент: https://github.com/wireapp
+Сервер: https://github.com/wireapp/wire-server
+Bitmessage https://bitmessage.org/wiki/Main_Page
+https://book.cyberyozh.com/ru/bitmessage-samyij-anonimnyij-messendzher/
+Tor https://www.torproject.org/
+https://ru.wikipedia.org/wiki/Tor
+I2P https://habr.com/en/post/97827/
+https://geti2p.net/ru/
+https://github.com/PurpleI2P/i2pd
+Freenet http://zenway.ru/page/freenet
+https://freenetproject.org/
+Retroshare https://adorabilis.wordpress.com/rs-quick-entering/
+https://habr.com/en/post/279031/
+http://retroshare.cc/
+GoodbyeDPI https://bitbucket.org/ValdikSS/goodbyedpi
+Сайты с теорией https://privacytools.ru/
+https://book.cyberyozh.com/ru/?fl=ru
+http://www.ifap.ru/library/book534.pdf - Настольная книга кибердиссидента
+Mesh сети https://github.com/russian-meshnet/meshnet-chat-agenda - оче годное русское сообщество.
+https://www.reddit.com/r/ru_meshnet
+Дистрибутивы линукс для обхода блокировок и анонимизации Linux Kodachi Имеет встроеный впн, который оплачивает создатель, если заподозрит тебя в чём-то нехорошем - отрубит. Так что анонимность так себе, но в остальном оче хорош.">
+<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="Обход блокировок" />
+<meta property="og:description" content="TOX https://tox.chat/
+http://www.spy-soft.net/ustanovka-nastrojka-rabota-s-anonimnym-messendzherom-tox/
+WIRE. Клиент: https://github.com/wireapp
+Сервер: https://github.com/wireapp/wire-server
+Bitmessage https://bitmessage.org/wiki/Main_Page
+https://book.cyberyozh.com/ru/bitmessage-samyij-anonimnyij-messendzher/
+Tor https://www.torproject.org/
+https://ru.wikipedia.org/wiki/Tor
+I2P https://habr.com/en/post/97827/
+https://geti2p.net/ru/
+https://github.com/PurpleI2P/i2pd
+Freenet http://zenway.ru/page/freenet
+https://freenetproject.org/
+Retroshare https://adorabilis.wordpress.com/rs-quick-entering/
+https://habr.com/en/post/279031/
+http://retroshare.cc/
+GoodbyeDPI https://bitbucket.org/ValdikSS/goodbyedpi
+Сайты с теорией https://privacytools.ru/
+https://book.cyberyozh.com/ru/?fl=ru
+http://www.ifap.ru/library/book534.pdf - Настольная книга кибердиссидента
+Mesh сети https://github.com/russian-meshnet/meshnet-chat-agenda - оче годное русское сообщество.
+https://www.reddit.com/r/ru_meshnet
+Дистрибутивы линукс для обхода блокировок и анонимизации Linux Kodachi Имеет встроеный впн, который оплачивает создатель, если заподозрит тебя в чём-то нехорошем - отрубит. Так что анонимность так себе, но в остальном оче хорош." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://infoanarchy.github.io/docs/ways_to_bypass_locks/" />
+<meta property="article:modified_time" content="2020-12-21T08:48:52+03:00" />
+<title>Обход блокировок | Infoanarchy</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="/book.min.134b70e5316650a530cb42e4e8630b2a01d532bebfc0337028211175336e4806.css" integrity="sha256-E0tw5TFmUKUwy0Lk6GMLKgHVMr6/wDNwKCERdTNuSAY=">
+<script defer src="/en.search.min.727e8b3b5ac25265e0ac6bffdf3df3f725077690e859d117d72b9269e7abc078.js" integrity="sha256-cn6LO1rCUmXgrGv/3z3z9yUHdpDoWdEX1yuSaeerwHg="></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+  
+</head>
+
+<body dir=>
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      
+  <nav>
+<h2 class="book-brand">
+  <a href="/"><span>Infoanarchy</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://infoanarchy.github.io/docs/network-attached-storage/" class="">Network Attached Storage</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://infoanarchy.github.io/docs/hardware/" class="">Аппаратная часть</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://infoanarchy.github.io/docs/links/" class="">Интересные файлы собранные другими людьми</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://infoanarchy.github.io/docs/history/" class="">История</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://infoanarchy.github.io/docs/ways_to_bypass_locks/" class=" active">Обход блокировок</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://infoanarchy.github.io/docs/varez_link/" class="">Полезные ссылки</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://infoanarchy.github.io/docs/software/" class="">Программная часть</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var menu=document.querySelector("aside.book-menu nav");addEventListener("beforeunload",function(event){localStorage.setItem("menu.scrollTop",menu.scrollTop);});menu.scrollTop=localStorage.getItem("menu.scrollTop");})();</script>
+
+
+ 
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>Обход блокировок</strong>
+
+  <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#tox">TOX</a></li>
+    <li><a href="#wire">WIRE.</a></li>
+    <li><a href="#bitmessage">Bitmessage</a></li>
+    <li><a href="#tor">Tor</a></li>
+    <li><a href="#i2p">I2P</a></li>
+    <li><a href="#freenet">Freenet</a></li>
+    <li><a href="#retroshare">Retroshare</a></li>
+    <li><a href="#goodbyedpi">GoodbyeDPI</a></li>
+    <li><a href="#сайты-с-теорией">Сайты с теорией</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="#дистрибутивы-линукс-для-обхода-блокировок-и-анонимизации">Дистрибутивы линукс для обхода блокировок и анонимизации</a>
+      <ul>
+        <li><a href="#linux-kodachi">Linux Kodachi</a></li>
+        <li><a href="#tails">Tails</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown"><h2 id="tox">TOX</h2>
+<p><a href="https://tox.chat/">https://tox.chat/</a></p>
+<p><a href="http://www.spy-soft.net/ustanovka-nastrojka-rabota-s-anonimnym-messendzherom-tox/">http://www.spy-soft.net/ustanovka-nastrojka-rabota-s-anonimnym-messendzherom-tox/</a></p>
+<h2 id="wire">WIRE.</h2>
+<p>Клиент:
+<a href="https://github.com/wireapp">https://github.com/wireapp</a></p>
+<p>Сервер:
+<a href="https://github.com/wireapp/wire-server">https://github.com/wireapp/wire-server</a></p>
+<h2 id="bitmessage">Bitmessage</h2>
+<p><a href="https://bitmessage.org/wiki/Main_Page">https://bitmessage.org/wiki/Main_Page</a></p>
+<p><a href="https://book.cyberyozh.com/ru/bitmessage-samyij-anonimnyij-messendzher/">https://book.cyberyozh.com/ru/bitmessage-samyij-anonimnyij-messendzher/</a></p>
+<h2 id="tor">Tor</h2>
+<p><a href="https://www.torproject.org/">https://www.torproject.org/</a></p>
+<p><a href="https://ru.wikipedia.org/wiki/Tor">https://ru.wikipedia.org/wiki/Tor</a></p>
+<h2 id="i2p">I2P</h2>
+<p><a href="https://habr.com/en/post/97827/">https://habr.com/en/post/97827/</a></p>
+<p><a href="https://geti2p.net/ru/">https://geti2p.net/ru/</a></p>
+<p><a href="https://github.com/PurpleI2P/i2pd">https://github.com/PurpleI2P/i2pd</a></p>
+<h2 id="freenet">Freenet</h2>
+<p><a href="http://zenway.ru/page/freenet">http://zenway.ru/page/freenet</a></p>
+<p><a href="https://freenetproject.org/">https://freenetproject.org/</a></p>
+<h2 id="retroshare">Retroshare</h2>
+<p><a href="https://adorabilis.wordpress.com/rs-quick-entering/">https://adorabilis.wordpress.com/rs-quick-entering/</a></p>
+<p><a href="https://habr.com/en/post/279031/">https://habr.com/en/post/279031/</a></p>
+<p><a href="http://retroshare.cc/">http://retroshare.cc/</a></p>
+<h2 id="goodbyedpi">GoodbyeDPI</h2>
+<p><a href="https://bitbucket.org/ValdikSS/goodbyedpi">https://bitbucket.org/ValdikSS/goodbyedpi</a></p>
+<h2 id="сайты-с-теорией">Сайты с теорией</h2>
+<p><a href="https://privacytools.ru/">https://privacytools.ru/</a></p>
+<p><a href="https://book.cyberyozh.com/ru/?fl=ru">https://book.cyberyozh.com/ru/?fl=ru</a></p>
+<p><a href="http://www.ifap.ru/library/book534.pdf">http://www.ifap.ru/library/book534.pdf</a> - Настольная книга кибердиссидента</p>
+<h1 id="mesh-сети">Mesh сети</h1>
+<p><a href="https://github.com/russian-meshnet/meshnet-chat-agenda">https://github.com/russian-meshnet/meshnet-chat-agenda</a> - оче годное русское сообщество.</p>
+<p><a href="https://www.reddit.com/r/ru_meshnet">https://www.reddit.com/r/ru_meshnet</a></p>
+<h2 id="дистрибутивы-линукс-для-обхода-блокировок-и-анонимизации">Дистрибутивы линукс для обхода блокировок и анонимизации</h2>
+<h3 id="linux-kodachi">Linux Kodachi</h3>
+<p>Имеет встроеный впн, который оплачивает создатель, если заподозрит тебя в чём-то нехорошем - отрубит.
+Так что анонимность так себе, но в остальном оче хорош.</p>
+<p><a href="https://sourceforge.net/projects/linuxkodachi/">https://sourceforge.net/projects/linuxkodachi/</a></p>
+<p><a href="https://codeby.net/threads/kodachi-bezopasnaja-kontr-kriminalisticheskaja-anonimnaja-operacionnaja-sistema.67098/#">https://codeby.net/threads/kodachi-bezopasnaja-kontr-kriminalisticheskaja-anonimnaja-operacionnaja-sistema.67098/#</a></p>
+<p><a href="https://www.digi77.com/linux-kodachi/">https://www.digi77.com/linux-kodachi/</a></p>
+<h3 id="tails">Tails</h3>
+<p><a href="https://tails.boum.org/">https://tails.boum.org/</a></p>
+<p><a href="https://habr.com/ru/post/439716/">https://habr.com/ru/post/439716/</a></p>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#tox">TOX</a></li>
+    <li><a href="#wire">WIRE.</a></li>
+    <li><a href="#bitmessage">Bitmessage</a></li>
+    <li><a href="#tor">Tor</a></li>
+    <li><a href="#i2p">I2P</a></li>
+    <li><a href="#freenet">Freenet</a></li>
+    <li><a href="#retroshare">Retroshare</a></li>
+    <li><a href="#goodbyedpi">GoodbyeDPI</a></li>
+    <li><a href="#сайты-с-теорией">Сайты с теорией</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="#дистрибутивы-линукс-для-обхода-блокировок-и-анонимизации">Дистрибутивы линукс для обхода блокировок и анонимизации</a>
+      <ul>
+        <li><a href="#linux-kodachi">Linux Kodachi</a></li>
+        <li><a href="#tails">Tails</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+ 
+    </aside>
+    
+  </main>
+
+  
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

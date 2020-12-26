@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docs on Infoanarchy</title>
+    <title>Главная страница on Infoanarchy</title>
     <link>https://infoanarchy.github.io/docs/</link>
-    <description>Recent content in Docs on Infoanarchy</description>
+    <description>Recent content in Главная страница on Infoanarchy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     
@@ -11,22 +11,12 @@
     
     
     <item>
-      <title>Network Attached Storage</title>
-      <link>https://infoanarchy.github.io/docs/Network-Attached-Storage/</link>
+      <title>Где что искать?</title>
+      <link>https://infoanarchy.github.io/docs/varez_link/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://infoanarchy.github.io/docs/Network-Attached-Storage/</guid>
-      <description>Network Attached Storage NAS - файлопомойка, на которой аноним может хранить терабайты полезной нагрузки. Можно сделать из говна и палок, и плакать когда (не если, а когда) рейд бесповоротно сдохнет, или можно попробовать сделать его отказоустойчивым, насколько это возможно. Для этого тебе навряд ли хватит этой вики, но как отправная точка она пойдёт.
-100% гарантий сохранности данных он не обеспечит в любом случае, поэтому важное всегда нужно бэкапить на отдельный носитель, например, внешний хард, флешку, оптический диск; запаковать в зашифрованный архив с большим ключом или LUKS/VeraCrypt криптоконтейнер, и залить на бесплатное облако.</description>
-    </item>
-    
-    <item>
-      <title>Аппаратная часть</title>
-      <link>https://infoanarchy.github.io/docs/hardware/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://infoanarchy.github.io/docs/hardware/</guid>
-      <description>На что сохранять контент? HDD - Самый оптимальный вариант. Если не насиловать его включениями-выключениями по 20 раз в день, не ронять на пол и хранить в нормальных условиях, то жить он будет долго. А ещё, если вдруг что-нибудь случится, есть специальные конторы, которые могут вытащить с убитого харда информацию за $ (для майора Доигралеса бесплатно). Самыми надёжными жесткими дисками по среднему сроку службы и количеству брака являются диски Seagate Constellation и Western Digital Green.</description>
+      <guid>https://infoanarchy.github.io/docs/varez_link/</guid>
+      <description>Варез линкс Софт на пекарню:   alternativeto.net - Хороший, годный ресурс для поиска софта и аналогов к нему.  irdevelopers.com  rsload.net  onhax.me  portableapps.com  startcrack.com  teamos-hkrg.com  karanpc.com - Варез, кряки, репаки, кейгены.  Софт на ведроид:   4pda.ru - Без иронии. После наступления чебурнета эта файлопомойка начнёт массово тереть варез, лишь бы её не заблочили. Качай пока не поздно.  apk4fun.com  apkmirror.com  apkpure.</description>
     </item>
     
     <item>
@@ -35,7 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://infoanarchy.github.io/docs/links/</guid>
-      <description>ССЫЛОЧКИ НА ФОТО ТОВ.МАЙОРА ДОЕБАЛЕСА БЕЗ ПОГОН И ОРДЕРА!!! (возможно сейчас уже тов.подполковника)
+      <description>Архивы и сетевые хранилища собранные разными людьми
   https://yadi.sk/d/nfSpf3rC3UA9g8 - большой пак больше 50 гб
   https://drive.google.com/file/d/19hKtkk_tp1Zm_BrpqBUkp6agOswf6__k/view?aba2c4aa26 Книги издательства МИФ - 2018 [293 книг]
   https://en.wikipedia.org/wiki/Wikipedia:Database_download Дамп википедии с инструкцией.
@@ -44,14 +34,34 @@
     </item>
     
     <item>
-      <title>История</title>
+      <title>История ограничительных мер в РФ</title>
       <link>https://infoanarchy.github.io/docs/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://infoanarchy.github.io/docs/history/</guid>
-      <description>12 февраля Госдума РФ в первом чтении приняла законопроект об изоляции российского сегмента интернета. Это значит, что даже пердоли из /s/ со своими напердоленными обходными прокси-агрегатами соснут с проглотом.
+      <description>История ограничительных мер в РФ
+  12 февраля Госдума РФ в первом чтении приняла законопроект об изоляции российского сегмента интернета. Это значит, что даже пердоли из /s/ со своими напердоленными обходными прокси-агрегатами соснут с проглотом.
   21 февраля Солнцеликий заявил, что угроза отключения России от глобального интернета существует, и к ней нужно подготовиться. А ещё заявил, что сама себя Россия отключать от интернета не-бу-дет [spoiler]твёрдо и чётко.[/spoiler]
   22 февраля Медведев подписал постановление о создании Центра мониторинга и управления сетью связи общего пользования.</description>
+    </item>
+    
+    <item>
+      <title>Как доставать контент из интернета</title>
+      <link>https://infoanarchy.github.io/docs/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://infoanarchy.github.io/docs/software/</guid>
+      <description>Скачивать c YouTube лучше всего с Ummy Downloader, для пердоликов youtube-dl.
+  Для скачивания рандомных сайтов подойдёт Teleport Pro (Есть ещё версия ULTRA, которая добавляет возможность запихнуть в .txt файл до 4094 ссылки и скачать их), прога крайне проста, но нужно аккуратно вбивать, чтобы не скачать пол интернета. Из аналогов есть HTTrack Website Copier, WebCopy, Darcy Ripper, MetaProducts Offline Explorer. Вот Teleport Pro крякнутая и ру$$сифицированная, пароль к архиву kilo.</description>
+    </item>
+    
+    <item>
+      <title>На что сохранять контент?</title>
+      <link>https://infoanarchy.github.io/docs/hardware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://infoanarchy.github.io/docs/hardware/</guid>
+      <description>HDD - Самый оптимальный вариант. Если не насиловать его включениями-выключениями по 20 раз в день, не ронять на пол и хранить в нормальных условиях, то жить он будет долго. А ещё, если вдруг что-нибудь случится, есть специальные конторы, которые могут вытащить с убитого харда информацию за $ (для майора Доигралеса бесплатно). Самыми надёжными жесткими дисками по среднему сроку службы и количеству брака являются диски Seagate Constellation и Western Digital Green. Но прежде чем бежать на рынок за диском от Ашота читай отзывы по конкретной марке, так же не беги за диском к авито потому что тебе могут продать хлам который завтра может посыпаться по цене нового.</description>
     </item>
     
     <item>
@@ -86,22 +96,13 @@ https://www.reddit.com/r/ru_meshnet
     </item>
     
     <item>
-      <title>Полезные ссылки</title>
-      <link>https://infoanarchy.github.io/docs/varez_link/</link>
+      <title>Создание домашней файлопомойки</title>
+      <link>https://infoanarchy.github.io/docs/network-attached-storage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://infoanarchy.github.io/docs/varez_link/</guid>
-      <description>Варез линкс Софт на пекарню:   alternativeto.net - Хороший, годный ресурс для поиска софта и аналогов к нему.  irdevelopers.com  rsload.net  onhax.me  portableapps.com  startcrack.com  teamos-hkrg.com  karanpc.com - Варез, кряки, репаки, кейгены.  Софт на ведроид:   4pda.ru - Без иронии. После наступления чебурнета эта файлопомойка начнёт массово тереть варез, лишь бы её не заблочили. Качай пока не поздно.  apk4fun.com  apkmirror.com  apkpure.</description>
-    </item>
-    
-    <item>
-      <title>Программная часть</title>
-      <link>https://infoanarchy.github.io/docs/software/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://infoanarchy.github.io/docs/software/</guid>
-      <description>А чем качать?   Скачивать c YouTube лучше всего с Ummy Downloader, для пердоликов youtube-dl.
-  Для скачивания рандомных сайтов подойдёт Teleport Pro (Есть ещё версия ULTRA, которая добавляет возможность запихнуть в .txt файл до 4094 ссылки и скачать их), прога крайне проста, но нужно аккуратно вбивать, чтобы не скачать пол интернета. Из аналогов есть HTTrack Website Copier, WebCopy, Darcy Ripper, MetaProducts Offline Explorer. Вот Teleport Pro крякнутая и ру$$сифицированная, пароль к архиву kilo.</description>
+      <guid>https://infoanarchy.github.io/docs/network-attached-storage/</guid>
+      <description>Network Attached Storage NAS - файлопомойка, на которой аноним может хранить терабайты полезной нагрузки. Можно сделать из говна и палок, и плакать когда (не если, а когда) рейд бесповоротно сдохнет, или можно попробовать сделать его отказоустойчивым, насколько это возможно. Для этого тебе навряд ли хватит этой вики, но как отправная точка она пойдёт.
+100% гарантий сохранности данных он не обеспечит в любом случае, поэтому важное всегда нужно бэкапить на отдельный носитель, например, внешний хард, флешку, оптический диск; запаковать в зашифрованный архив с большим ключом или LUKS/VeraCrypt криптоконтейнер, и залить на бесплатное облако.</description>
     </item>
     
   </channel>

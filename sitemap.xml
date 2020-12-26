@@ -7,12 +7,11 @@
   </url>
   
   <url>
-    <loc>https://infoanarchy.github.io/docs/</loc>
-    <lastmod>2020-12-21T08:48:52+03:00</lastmod>
+    <loc>https://infoanarchy.github.io/tags/</loc>
   </url>
   
   <url>
-    <loc>https://infoanarchy.github.io/docs/Network-Attached-Storage/</loc>
+    <loc>https://infoanarchy.github.io/docs/varez_link/</loc>
     <lastmod>2020-12-21T08:48:52+03:00</lastmod>
   </url>
   
@@ -22,11 +21,7 @@
   </url>
   
   <url>
-    <loc>https://infoanarchy.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://infoanarchy.github.io/docs/hardware/</loc>
+    <loc>https://infoanarchy.github.io/docs/</loc>
     <lastmod>2020-12-21T08:48:52+03:00</lastmod>
   </url>
   
@@ -41,18 +36,22 @@
   </url>
   
   <url>
+    <loc>https://infoanarchy.github.io/docs/software/</loc>
+    <lastmod>2020-12-21T08:48:52+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://infoanarchy.github.io/docs/hardware/</loc>
+    <lastmod>2020-12-21T08:48:52+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://infoanarchy.github.io/docs/ways_to_bypass_locks/</loc>
     <lastmod>2020-12-21T08:48:52+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://infoanarchy.github.io/docs/varez_link/</loc>
-    <lastmod>2020-12-21T08:48:52+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://infoanarchy.github.io/docs/software/</loc>
-    <lastmod>2020-12-21T08:48:52+03:00</lastmod>
+    <loc>https://infoanarchy.github.io/docs/network-attached-storage/</loc>
   </url>
   
 </urlset>

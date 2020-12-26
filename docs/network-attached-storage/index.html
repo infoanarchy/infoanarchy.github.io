@@ -7,17 +7,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Network Attached Storage NAS - файлопомойка, на которой аноним может хранить терабайты полезной нагрузки. Можно сделать из говна и палок, и плакать когда (не если, а когда) рейд бесповоротно сдохнет, или можно попробовать сделать его отказоустойчивым, насколько это возможно. Для этого тебе навряд ли хватит этой вики, но как отправная точка она пойдёт.
 100% гарантий сохранности данных он не обеспечит в любом случае, поэтому важное всегда нужно бэкапить на отдельный носитель, например, внешний хард, флешку, оптический диск; запаковать в зашифрованный архив с большим ключом или LUKS/VeraCrypt криптоконтейнер, и залить на бесплатное облако.">
-<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="Network Attached Storage" />
+<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="Создание домашней файлопомойки" />
 <meta property="og:description" content="Network Attached Storage NAS - файлопомойка, на которой аноним может хранить терабайты полезной нагрузки. Можно сделать из говна и палок, и плакать когда (не если, а когда) рейд бесповоротно сдохнет, или можно попробовать сделать его отказоустойчивым, насколько это возможно. Для этого тебе навряд ли хватит этой вики, но как отправная точка она пойдёт.
 100% гарантий сохранности данных он не обеспечит в любом случае, поэтому важное всегда нужно бэкапить на отдельный носитель, например, внешний хард, флешку, оптический диск; запаковать в зашифрованный архив с большим ключом или LUKS/VeraCrypt криптоконтейнер, и залить на бесплатное облако." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://infoanarchy.github.io/docs/Network-Attached-Storage/" />
-<meta property="article:modified_time" content="2020-12-21T08:48:52+03:00" />
-<title>Network Attached Storage | Infoanarchy</title>
+<meta property="og:url" content="https://infoanarchy.github.io/docs/network-attached-storage/" />
+
+<title>Создание домашней файлопомойки | Infoanarchy</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/book.min.09a284f5a03730d86dde350d2c062b1514e48fdfebba7763941c0674ef65748f.css" integrity="sha256-CaKE9aA3MNht3jUNLAYrFRTkj9/rundjlBwGdO9ldI8=">
-<script defer src="/en.search.min.15ed01ee8c5fe6873676b3fc1ab9d7f3e079d9128ac0fe17f954e55a9140920d.js" integrity="sha256-Fe0B7oxf5oc2drP8GrnX8&#43;B52RKKwP4X&#43;VTlWpFAkg0="></script>
+<script defer src="/en.search.min.3c033cc812dec27fafdc2b79da9a94b57529613f9dfffd89a1d238c7be57851b.js" integrity="sha256-PAM8yBLewn&#43;v3Ct52pqUtXUpYT&#43;d//2JodI4x75XhRs="></script>
 
 <script defer src="/sw.min.74a8bb07f0bee86d6bb9a2750f073f14d93c7e4512f28860370cfd879e9719b4.js" integrity="sha256-dKi7B/C&#43;6G1ruaJ1Dwc/FNk8fkUS8ohgNwz9h56XGbQ="></script>
 <!--
@@ -71,20 +71,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="https://infoanarchy.github.io/docs/Network-Attached-Storage/" class=" active">Network Attached Storage</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="https://infoanarchy.github.io/docs/hardware/" class="">Аппаратная часть</a>
+    <a href="https://infoanarchy.github.io/docs/varez_link/" class="">Где что искать?</a>
   
 
         </li>
@@ -110,7 +97,33 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="https://infoanarchy.github.io/docs/history/" class="">История</a>
+    <a href="https://infoanarchy.github.io/docs/history/" class="">История ограничительных мер в РФ</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://infoanarchy.github.io/docs/software/" class="">Как доставать контент из интернета</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://infoanarchy.github.io/docs/hardware/" class="">На что сохранять контент?</a>
   
 
         </li>
@@ -136,20 +149,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="https://infoanarchy.github.io/docs/varez_link/" class="">Полезные ссылки</a>
-  
-
-        </li>
-      
-    
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="https://infoanarchy.github.io/docs/software/" class="">Программная часть</a>
+    <a href="https://infoanarchy.github.io/docs/network-attached-storage/" class=" active">Создание домашней файлопомойки</a>
   
 
         </li>
@@ -190,7 +190,7 @@ https://github.com/alex-shpak/hugo-book
     <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
   </label>
 
-  <strong>Network Attached Storage</strong>
+  <strong>Создание домашней файлопомойки</strong>
 
   <label for="toc-control">
     
@@ -568,16 +568,10 @@ FreeBSD handbook: <a href="https://www.freebsd.org/doc/en_US.ISO8859-1/books/han
 
 
 
-  <div><a class="flex align-center" href="https://github.com/infoanarchy/src_site/commit/da58ccde5e97774a877bf142ddfbb7d03923b8a2" title='Last modified by Infoanarchy | December 21, 2020' target="_blank" rel="noopener">
-      <img src="/svg/calendar.svg" class="book-icon" alt="Calendar" />
-      <span>December 21, 2020</span>
-    </a>
-  </div>
-
 
 
   <div>
-    <a class="flex align-center" href="https://github.com/infoanarchy/src_site/edit/master/content//docs/Network-Attached-Storage.md" target="_blank" rel="noopener">
+    <a class="flex align-center" href="https://github.com/infoanarchy/src_site/edit/master/content//docs/network-attached-storage.md" target="_blank" rel="noopener">
       <img src="/svg/edit.svg" class="book-icon" alt="Edit" />
       <span>Edit this page</span>
     </a>

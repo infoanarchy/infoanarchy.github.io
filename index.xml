@@ -5,10 +5,20 @@
     <link>https://infoanarchy.github.io/</link>
     <description>Recent content in Главная страница on Infoanarchy</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru-RU</language>
+    <language>ru</language>
     
 	<atom:link href="https://infoanarchy.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Андроид приложения</title>
+      <link>https://infoanarchy.github.io/docs/android_app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://infoanarchy.github.io/docs/android_app/</guid>
+      <description>YouTube Vanced - Приложение позволяющее без рекламы смотреть youtube, так же умеет сам проматывать рекламные интеграции в видео. Работает функция фонового воспроизведения и воспроизведения в окне. Так же есть аналог для youtube music, устанавливать лучше всего через Vanced manager. Советуем отключить автообновление этих приложений в маркете, иначе придёться устанавливать vanced каждый раз после обновления.
+ Newpipe - Клиент youtube, открытый, без рекламы, с фоновым просмотром, загрузкой видео и неудобными подсказками видео.</description>
+    </item>
     
     <item>
       <title>Где что искать?</title>
@@ -96,6 +106,45 @@ https://www.reddit.com/r/ru_meshnet
     </item>
     
     <item>
+      <title>Поиск по открытым источникам</title>
+      <link>https://infoanarchy.github.io/docs/osint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://infoanarchy.github.io/docs/osint/</guid>
+      <description>Telegram Поисковики по телеге https://search.buzz.im/
+https://telemetr.me/
+https://lyzem.com/
+https://tgstat.ru/
+http://telegcrack.com
+https://intelx.io/tools?tab=telegram
+https://t.me/MotherSearchBot
+https://cse.google.com/cse?&amp;amp; cx=006368593537057042503:efxu7xprihg#gsc.tab=0
+Поиск по никнейму https://namechk.com/
+https://whatsmyname.app/
+https://instantusername.com/#/
+https://t.me/maigret_osint_bot
+https://infotracer.com/
+https://go.mail.ru/search_social
+Поиск по фото https://vk.watch/
+https://findclone.ru/
+https://pimeyes.com/en/
+https://search4faces.com/
+https://yandex.ru/images/
+Узнать IP через звонок в телеге https://www.wireshark.org/download.html
+Другие логгеры для IP https://iplogger.ru/
+https://grabify.link/
+https://2ip.ru/strange-ip/
+http://ru.itsip.info/spy
+http://canarytokens.org/generate
+Боты @userinfobot (узнаем ID)
+@username_to_id_bot (узнаем ID)
+@CheckID_AIDbot (узнаем ID)
+@telesint_bot (в каких чатах есть пользователь)
+@list_member_bot (выгрузка участников чата)
+@quant_parserbot (выгрузка участников чатов)</description>
+    </item>
+    
+    <item>
       <title>Создание домашней файлопомойки</title>
       <link>https://infoanarchy.github.io/docs/network-attached-storage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -103,6 +152,17 @@ https://www.reddit.com/r/ru_meshnet
       <guid>https://infoanarchy.github.io/docs/network-attached-storage/</guid>
       <description>Network Attached Storage NAS - файлопомойка, на которой аноним может хранить терабайты полезной нагрузки. Можно сделать из говна и палок, и плакать когда (не если, а когда) рейд бесповоротно сдохнет, или можно попробовать сделать его отказоустойчивым, насколько это возможно. Для этого тебе навряд ли хватит этой вики, но как отправная точка она пойдёт.
 100% гарантий сохранности данных он не обеспечит в любом случае, поэтому важное всегда нужно бэкапить на отдельный носитель, например, внешний хард, флешку, оптический диск; запаковать в зашифрованный архив с большим ключом или LUKS/VeraCrypt криптоконтейнер, и залить на бесплатное облако.</description>
+    </item>
+    
+    <item>
+      <title>Шифровальное дело для политических активистов</title>
+      <link>https://infoanarchy.github.io/docs/shifrovanie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://infoanarchy.github.io/docs/shifrovanie/</guid>
+      <description>В июле 1990 года лидер движения Тупак Амару (MRTA), Виктор Полай (Victor Polay) и сорок шесть его товарищей совершили знаменитый побег из тюрьмы Canto Grande в Перу через специально прорытый туннель длиной триста пятнадцать метров.
+Однако в мае 1992 года полиция сумела найти компьютерный центр MRTA, получить из компьютера важную информацию о внутренней структуре движения и уже 10 июня 1992 года Виктор Полай снова был арестован.
+Этот провал, а также множество аналогичных, мало повлияли на революционные организации и группы России и СНГ, члены которых с упорством маньяков вновь и вновь наступают на одни и те же грабли, оставляя в своих компьютерах важную информацию в незащищённом виде.</description>
     </item>
     
   </channel>

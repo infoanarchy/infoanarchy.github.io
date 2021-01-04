@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Главная страница on Infoanarchy</title>
+    <title>Docs on Infoanarchy</title>
     <link>https://infoanarchy.github.io/docs/</link>
-    <description>Recent content in Главная страница on Infoanarchy</description>
+    <description>Recent content in Docs on Infoanarchy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     
@@ -152,17 +152,6 @@ http://canarytokens.org/generate
       <guid>https://infoanarchy.github.io/docs/network-attached-storage/</guid>
       <description>Network Attached Storage NAS - файлопомойка, на которой аноним может хранить терабайты полезной нагрузки. Можно сделать из говна и палок, и плакать когда (не если, а когда) рейд бесповоротно сдохнет, или можно попробовать сделать его отказоустойчивым, насколько это возможно. Для этого тебе навряд ли хватит этой вики, но как отправная точка она пойдёт.
 100% гарантий сохранности данных он не обеспечит в любом случае, поэтому важное всегда нужно бэкапить на отдельный носитель, например, внешний хард, флешку, оптический диск; запаковать в зашифрованный архив с большим ключом или LUKS/VeraCrypt криптоконтейнер, и залить на бесплатное облако.</description>
-    </item>
-    
-    <item>
-      <title>Шифровальное дело для политических активистов</title>
-      <link>https://infoanarchy.github.io/docs/shifrovanie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://infoanarchy.github.io/docs/shifrovanie/</guid>
-      <description>В июле 1990 года лидер движения Тупак Амару (MRTA), Виктор Полай (Victor Polay) и сорок шесть его товарищей совершили знаменитый побег из тюрьмы Canto Grande в Перу через специально прорытый туннель длиной триста пятнадцать метров.
-Однако в мае 1992 года полиция сумела найти компьютерный центр MRTA, получить из компьютера важную информацию о внутренней структуре движения и уже 10 июня 1992 года Виктор Полай снова был арестован.
-Этот провал, а также множество аналогичных, мало повлияли на революционные организации и группы России и СНГ, члены которых с упорством маньяков вновь и вновь наступают на одни и те же грабли, оставляя в своих компьютерах важную информацию в незащищённом виде.</description>
     </item>
     
   </channel>

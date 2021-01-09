@@ -156,10 +156,10 @@ http://canarytokens.org/generate
     
     <item>
       <title>Создание домашней файлопомойки</title>
-      <link>https://infoanarchy.github.io/docs/Network-Attached-Storage/</link>
+      <link>https://infoanarchy.github.io/docs/network-attached-storage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://infoanarchy.github.io/docs/Network-Attached-Storage/</guid>
+      <guid>https://infoanarchy.github.io/docs/network-attached-storage/</guid>
       <description>Network Attached Storage NAS - файлопомойка, на которой аноним может хранить терабайты полезной нагрузки. Можно сделать из говна и палок, и плакать когда (не если, а когда) рейд бесповоротно сдохнет, или можно попробовать сделать его отказоустойчивым, насколько это возможно. Для этого тебе навряд ли хватит этой вики, но как отправная точка она пойдёт.
 100% гарантий сохранности данных он не обеспечит в любом случае, поэтому важное всегда нужно бэкапить на отдельный носитель, например, внешний хард, флешку, оптический диск; запаковать в зашифрованный архив с большим ключом или LUKS/VeraCrypt криптоконтейнер, и залить на бесплатное облако.</description>
     </item>

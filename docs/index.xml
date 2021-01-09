@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Диагностика HDD</title>
+      <link>https://infoanarchy.github.io/docs/hdd-health/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://infoanarchy.github.io/docs/hdd-health/</guid>
+      <description>HDD диагностика. Современные диски содержат в себе компьютер уровня PC 15летней давности, который целиком и полностью управляет работой диска, следит за его здоровьем, и прочее прочее. Технология позволяющая пользователю получать доступ к диагностической информации называется SMART. Именно чтение СМАРТа позволит тебе понять что же происходит с диском. Для чтения СМАРТа существует множество утилит. Популярной утилитой под виндовс является Cristal Disk Info, качать тут: https://crystalmark.info/en/software/crystaldiskinfo/ в настройках включи показ raw значений в десятичном виде.</description>
+    </item>
+    
+    <item>
       <title>Интересные файлы собранные другими людьми</title>
       <link>https://infoanarchy.github.io/docs/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -80,13 +89,14 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://infoanarchy.github.io/docs/ways_to_bypass_locks/</guid>
-      <description>TOX https://tox.chat/
+      <description>Обмен файлами https://getsurge.io/ - Перспективная утилита для анонимного обмена файлами.
+Анонимное общение TOX https://tox.chat/
 http://www.spy-soft.net/ustanovka-nastrojka-rabota-s-anonimnym-messendzherom-tox/
 WIRE. Клиент: https://github.com/wireapp
 Сервер: https://github.com/wireapp/wire-server
 Bitmessage https://bitmessage.org/wiki/Main_Page
 https://book.cyberyozh.com/ru/bitmessage-samyij-anonimnyij-messendzher/
-Tor https://www.torproject.org/
+Анонимные оверлейные сети Tor https://www.torproject.org/
 https://ru.wikipedia.org/wiki/Tor
 I2P https://habr.com/en/post/97827/
 https://geti2p.net/ru/
@@ -96,13 +106,13 @@ https://freenetproject.org/
 Retroshare https://adorabilis.wordpress.com/rs-quick-entering/
 https://habr.com/en/post/279031/
 http://retroshare.cc/
-GoodbyeDPI https://bitbucket.org/ValdikSS/goodbyedpi
+Обход DPI GoodbyeDPI https://bitbucket.org/ValdikSS/goodbyedpi
 Сайты с теорией https://privacytools.ru/
 https://book.cyberyozh.com/ru/?fl=ru
 http://www.ifap.ru/library/book534.pdf - Настольная книга кибердиссидента
-Mesh сети https://github.com/russian-meshnet/meshnet-chat-agenda - оче годное русское сообщество.
+Mesh сети https://github.com/russian-meshnet/meshnet-chat-agenda - очень годное русское сообщество.
 https://www.reddit.com/r/ru_meshnet
-Дистрибутивы линукс для обхода блокировок и анонимизации Linux Kodachi Имеет встроеный впн, который оплачивает создатель, если заподозрит тебя в чём-то нехорошем - отрубит. Так что анонимность так себе, но в остальном оче хорош.</description>
+Дистрибутивы линукс для обхода блокировок и анонимизации Linux Kodachi Имеет встроеный впн, который оплачивает создатель, если заподозрит тебя в чём-то нехорошем - отрубит.</description>
     </item>
     
     <item>
@@ -146,12 +156,31 @@ http://canarytokens.org/generate
     
     <item>
       <title>Создание домашней файлопомойки</title>
-      <link>https://infoanarchy.github.io/docs/network-attached-storage/</link>
+      <link>https://infoanarchy.github.io/docs/Network-Attached-Storage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://infoanarchy.github.io/docs/network-attached-storage/</guid>
+      <guid>https://infoanarchy.github.io/docs/Network-Attached-Storage/</guid>
       <description>Network Attached Storage NAS - файлопомойка, на которой аноним может хранить терабайты полезной нагрузки. Можно сделать из говна и палок, и плакать когда (не если, а когда) рейд бесповоротно сдохнет, или можно попробовать сделать его отказоустойчивым, насколько это возможно. Для этого тебе навряд ли хватит этой вики, но как отправная точка она пойдёт.
 100% гарантий сохранности данных он не обеспечит в любом случае, поэтому важное всегда нужно бэкапить на отдельный носитель, например, внешний хард, флешку, оптический диск; запаковать в зашифрованный архив с большим ключом или LUKS/VeraCrypt криптоконтейнер, и залить на бесплатное облако.</description>
+    </item>
+    
+    <item>
+      <title>Ссылки на лекции и обучающие материалы</title>
+      <link>https://infoanarchy.github.io/docs/awesome-info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://infoanarchy.github.io/docs/awesome-info/</guid>
+      <description>Список полезных списков и собранных знаний на русском.
+LPIC подготовка https://github.com/ksemaev/lpic_1-101
+https://github.com/ksemaev/lpic_1-102
+https://github.com/ksemaev/lpic_2-201
+Лекции и похожие материалы https://github.com/doloz/13161 - методы защиты информации, дгла, философия, теория чисел
+https://github.com/valentiay/analmech - аналитическая механника
+https://github.com/FedorSarafanov/atomic-lections2 - атомная физика
+https://github.com/adambard/learnxinyminutes-docs https://learnxinyminutes.com/ - изучи Х за Y минут, есть материалы на русском https://github.com/Shadow326159/Lectures - Лекции по фундаментальной и компьютерной алгебре
+https://github.com/adhaesitadimo/hse-ami-lectures - конспекты лекций 1-го курса ПМИ
+https://github.com/AzizovMV/LecturesKT - Лекции по компьютерным технолгиям
+https://github.com/tsnsoft/Linux - Лекции по linux https://github.</description>
     </item>
     
   </channel>

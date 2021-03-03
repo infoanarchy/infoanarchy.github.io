@@ -2,7 +2,7 @@
 <html lang="ru" dir=>
 
 <head>
-  <meta name="generator" content="Hugo 0.68.3" />
+  <meta name="generator" content="Hugo 0.80.0" />
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="YouTube Vanced - Приложение позволяющее без рекламы смотреть youtube, так же умеет сам проматывать рекламные интеграции в видео. Работает функция фонового воспроизведения и воспроизведения в окне. Так же есть аналог для youtube music, устанавливать лучше всего через Vanced manager. Советуем отключить автообновление этих приложений в маркете, иначе придётся устанавливать vanced каждый раз после обновления.
@@ -17,7 +17,7 @@
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/book.min.09a284f5a03730d86dde350d2c062b1514e48fdfebba7763941c0674ef65748f.css" integrity="sha256-CaKE9aA3MNht3jUNLAYrFRTkj9/rundjlBwGdO9ldI8=">
-<script defer src="/ru.search.min.b317eb4253c57bd5287c9f338a80773a28674b9c3cca6ce3a68c7ecb67c35ae1.js" integrity="sha256-sxfrQlPFe9UofJ8zioB3OihnS5w8ymzjpox&#43;y2fDWuE="></script>
+<script defer src="/ru.search.min.36305a0780507d2f7646c4a40d82bd738d28acf0be2d73082d1f02f12d93cf2b.js" integrity="sha256-NjBaB4BQfS92RsSkDYK9c40orPC&#43;LXMILR8C8S2Tzys="></script>
 
 <script defer src="/sw.min.74a8bb07f0bee86d6bb9a2750f073f14d93c7e4512f28860370cfd879e9719b4.js" integrity="sha256-dKi7B/C&#43;6G1ruaJ1Dwc/FNk8fkUS8ohgNwz9h56XGbQ="></script>
 <!--
@@ -33,7 +33,8 @@ https://github.com/alex-shpak/hugo-book
   <input type="checkbox" class="hidden toggle" id="toc-control" />
   <main class="container flex">
     <aside class="book-menu">
-      
+      <div class="book-menu-content">
+        
   <nav>
 <h2 class="book-brand">
   <a href="/"><span>Infoanarchy</span>
@@ -232,6 +233,7 @@ https://github.com/alex-shpak/hugo-book
 
 
  
+      </div>
     </aside>
 
     <div class="book-page">
@@ -255,7 +257,9 @@ https://github.com/alex-shpak/hugo-book
   
   <aside class="hidden clearfix">
     
-  <nav id="TableOfContents"></nav>
+  
+<nav id="TableOfContents"></nav>
+
 
 
   </aside>
@@ -330,10 +334,14 @@ https://github.com/alex-shpak/hugo-book
 
     
     <aside class="book-toc">
-      
-  <nav id="TableOfContents"></nav>
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents"></nav>
+
 
  
+      </div>
     </aside>
     
   </main>

@@ -49,6 +49,16 @@
     </item>
     
     <item>
+      <title>Инфоанархизм кратко</title>
+      <link>https://infoanarchy.github.io/docs/infoanarchy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://infoanarchy.github.io/docs/infoanarchy/</guid>
+      <description>Свободное обсуждение и распространение информации способствует развитию всего человечества. Люди, независимо от социального и экономического положения, если имеют доступ к знаниям, способны улучшать свою жизнь и жизнь окружающих. Мы не так много знаем об окружающем мире, а ещё меньше знает среднестатистический человек, делая информацию закрытой, мы тормозим миропознание всего общества.
+Из тезисов приведённых выше ясно, что доступ к информации, её свободное распространение и обсуждение являются одними из важнейших человеческих прав в современном мире, если этот мир хочет двигаться в сторону улучшения жизни каждого человека.</description>
+    </item>
+    
+    <item>
       <title>История ограничительных мер в РФ</title>
       <link>https://infoanarchy.github.io/docs/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -159,15 +169,26 @@ http://canarytokens.org/generate
       
       <guid>https://infoanarchy.github.io/docs/awesome-info/</guid>
       <description>Список полезных списков и собранных знаний на русском.
+Linux #  https://github.com/tsnsoft/Linux - Лекции по linux
+https://github.com/fhunter/unix-lectures - Лекции по командной строке и unix.
 LPIC подготовка #  https://github.com/ksemaev/lpic_1-101
 https://github.com/ksemaev/lpic_1-102
 https://github.com/ksemaev/lpic_2-201
-Лекции и похожие материалы #  https://github.com/doloz/13161 - методы защиты информации, дгла, философия, теория чисел
-https://github.com/valentiay/analmech - аналитическая механника
-https://github.com/FedorSarafanov/atomic-lections2 - атомная физика
-https://github.com/adambard/learnxinyminutes-docs https://learnxinyminutes.com/ - изучи Х за Y минут, есть материалы на русском https://github.com/Shadow326159/Lectures - Лекции по фундаментальной и компьютерной алгебре
-https://github.com/adhaesitadimo/hse-ami-lectures - конспекты лекций 1-го курса ПМИ
-https://github.com/AzizovMV/LecturesKT - Лекции по компьютерным технолгиям</description>
+Основы GNU-Linux и подготовка к RHCSA #  https://gitlab.com/doatta/gnu-linux-rhcsa
+Программирование #  https://github.com/javascript-tutorial/ru.javascript.info/tree/master - Обучение javascript https://github.com/kontur-course-nsk/lecture - Тут описаны семинарские занятия потока backend (C#) школы разработки СКБ Контур в Новосибирске https://github.com/Konstantin8105/Effective_Go_RU - Самоучитель golang
+https://github.com/cvlabmiet/master-programming - Лекции по программированию для студентов НИУ МИЭТ.</description>
+    </item>
+    
+    <item>
+      <title>Ссылки на сообщества</title>
+      <link>https://infoanarchy.github.io/docs/communities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://infoanarchy.github.io/docs/communities/</guid>
+      <description>https://github.com/russian-meshnet/faq - Сообщество по mesh сетям и распределённым системам
+https://github.com/netstalking-core/netstalking-catalogue - Сообщество по поиску по окрытым источникам в сети
+https://github.com/goq/telegram-list - Огромный список it групп и каналов в телеграмме
+https://t.me/Center_of_Anarchy - Список сообществ анархистов</description>
     </item>
     
   </channel>
